@@ -51,5 +51,4 @@ line(41, 341 , 0 , 340)
 line(502 , 351 , 505 , 399 ) // makes the line going down on the right
 
   
-
 }
